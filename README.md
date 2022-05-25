@@ -1,6 +1,5 @@
-# study-group
-This is an example repository for study group
-Author - Stefan Danicic
+# Description
+This is repository with tests for Vistaprint
 
 ## Installation
 To install project run next command:
